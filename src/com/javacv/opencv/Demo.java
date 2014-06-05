@@ -2,30 +2,12 @@ package com.javacv.opencv;
 
 import java.io.File;
 import java.net.URL;
-/*
-import com.googlecode.javacv.*;
-import static com.googlecode.javacv.cpp.opencv_core.*;
-import static com.googlecode.javacv.cpp.opencv_core.CvMat;
-import static com.googlecode.javacv.cpp.opencv_core.CvMemStorage;
-import static com.googlecode.javacv.cpp.opencv_core.CvPoint;
-import static com.googlecode.javacv.cpp.opencv_core.CvRect;
-import static com.googlecode.javacv.cpp.opencv_core.CvScalar;
-import static com.googlecode.javacv.cpp.opencv_core.CvSeq;
-import static com.googlecode.javacv.cpp.opencv_core.IplImage;
-import static com.googlecode.javacv.cpp.opencv_imgproc.*;
-import static com.googlecode.javacv.cpp.opencv_calib3d.*;
-import static com.googlecode.javacv.cpp.opencv_objdetect.*;
-import com.googlecode.javacv.cpp.*;
-import static com.googlecode.javacv.cpp.opencv_objdetect.CvHaarClassifierCascade;
-import com.googlecode.javacpp.*;
-*/
 import org.bytedeco.javacv.*;
 import org.bytedeco.javacpp.*;
 import static org.bytedeco.javacpp.opencv_core.*;
 import static org.bytedeco.javacpp.opencv_imgproc.*;
 import static org.bytedeco.javacpp.opencv_calib3d.*;
 import static org.bytedeco.javacpp.opencv_objdetect.*;
-
 
 
 public class Demo {
